@@ -30,11 +30,5 @@ Screenshots: <br>
 
 
 # Demo Video
-
-Demo Video Link: <br>
-# Demo Video
-
-<video controls width="100%">
-  <source src="./img/Screen Recording 2026-11-07 144940.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Demo Video Link:
+[Click here to watch the Demo Video (MP4)](./img/demo-video.mp4)

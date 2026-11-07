@@ -36,5 +36,5 @@ Demo Video Link: <br>
 
 <video controls width="100%">
   <source src="./img/Screen Recording 2026-11-07 144940.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="./img/Screen Recording 2026-11-07 144940.mp4">Download the demo video here</a>.
+  Your browser does not support the video tag.
 </video>

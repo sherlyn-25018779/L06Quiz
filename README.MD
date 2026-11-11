@@ -31,4 +31,4 @@ Screenshots: <br>
 
 # Demo Video
 Demo Video Link:
-[Click here to watch the Demo Video (MP4)](./img/demo-video.mp4)
+https://drive.google.com/file/d/1VDFpOISDx3-OYKhuuWHAvvOwI3LdkNQL/view?usp=sharing
